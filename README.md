@@ -1,8 +1,8 @@
-# Nome do Projeto
+# Quantum Quotient
 
 ## Descrição
 
-O Tech Ecommerce é um ecommerce especializado em artigos tecnológicos, construído com base no Payload CMS. Este projeto oferece uma plataforma robusta e flexível para a compra e venda de produtos de última geração, proporcionando uma experiência de compra única para os entusiastas de tecnologia.
+O Quantum Quotient é um ecommerce especializado em artigos tecnológicos, construído com base no Payload CMS. Este projeto oferece uma plataforma robusta e flexível para a compra e venda de produtos de última geração, proporcionando uma experiência de compra única para os entusiastas de tecnologia.
 
 ## Tecnologias Utilizadas
 
