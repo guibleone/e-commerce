@@ -14,23 +14,23 @@ O Quantum Quotient utiliza o Payload CMS como sistema de gerenciamento de conte�
 
 O Quantum Quotient utiliza o Next.js como framework para a construção do lado do cliente (frontend) da aplicação. Next.js oferece uma abordagem moderna e eficiente para o desenvolvimento de aplicações React, proporcionando renderização do lado do servidor (SSR), geração estática, entre outras características poderosas.
 
-### 3. Node.js
+### 3. [Node.js](https://nodejs.org/)
 
 O backend do projeto é construído utilizando o ambiente de execução Node.js. Node.js é conhecido por sua eficiência e capacidade de lidar com um grande número de conexões simultâneas, o que é crucial para uma aplicação ecommerce em constante interação.
 
-### 4. MongoDB
+### 4. [MongoDB](https://www.mongodb.com/)
 
 O banco de dados NoSQL MongoDB é escolhido para armazenar e recuperar dados de forma eficiente. Sua flexibilidade e escalabilidade são essenciais para um projeto ecommerce que lida com uma variedade de informações de produtos e usuários.
 
-### 5. React
+### 5. [React](https://reactjs.org/)
 
 O frontend do Quantum Quotient é construído com React, uma biblioteca JavaScript para construção de interfaces de usuário interativas. React permite uma renderização eficiente e uma experiência de usuário dinâmica.
 
-### 6. Styled Components
+### 6. [Styled Components](https://styled-components.com/)
 
 A estilização é feita com Styled Components, uma biblioteca para estilização de componentes em React. Isso permite uma abordagem mais modular e fácil de manter para o estilo da aplicação.
 
-### 7. Stripe API
+### 7. [Stripe API](https://stripe.com/)
 
 Para facilitar transações seguras de pagamento online, o Quantum Quotient integra a Stripe API. A Stripe oferece uma solução confiável e flexível para processamento de pagamentos.
 
