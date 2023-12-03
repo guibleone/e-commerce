@@ -44,13 +44,13 @@ O Quantum Quotient utiliza GraphQL como linguagem de consulta para a API. O Grap
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/seu-usuario/https://github.com/guibleone/quantum-quotient.git
    ```
 
 2. **Instale as Dependências**
 
    ```bash
-   cd nome-do-projeto
+   cd quantum-quotient
    npm install
    ```
 3. **Executar a Aplicação**
@@ -63,4 +63,4 @@ O Quantum Quotient utiliza GraphQL como linguagem de consulta para a API. O Grap
 
 ## Licença
 
-Este projeto está licenciado sob a [Nome da Licença]. Consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para obter detalhes.
