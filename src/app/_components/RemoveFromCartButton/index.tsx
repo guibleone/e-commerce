@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 import { Product } from '../../../payload/payload-types'
 import { useCart } from '../../_providers/Cart'
@@ -16,7 +17,7 @@ export const RemoveFromCartButton: React.FC<{
   const productIsInCart = isProductInCart(product)
 
   if (!productIsInCart) {
-    return <div>Item is not in the cart</div>
+    return <div>Item não está no carrinho</div>
   }
 
   return (
@@ -27,7 +28,13 @@ export const RemoveFromCartButton: React.FC<{
       }}
       className={[className, classes.removeFromCartButton].filter(Boolean).join(' ')}
     >
-      Remove
+      <Image
+        src="/assets/icons/delete.svg"
+        alt="delete"
+        width={24}
+        height={24}
+        className={classes.qtnBt}
+      />
     </button>
   )
 }
